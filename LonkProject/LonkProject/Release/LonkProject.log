@@ -1,0 +1,318 @@
+﻿  chest.cpp
+  deathwindow.cpp
+  door.cpp
+  monster.cpp
+e:\vscode\lonk\lonkproject\lonkproject\entities\monster.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\vscode\lonk\lonkproject\lonkproject\entities\monster.cpp(534): warning C4018: '<': signed/unsigned mismatch
+  monsterCave.cpp
+  player.cpp
+e:\vscode\lonk\lonkproject\lonkproject\entities\player.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  game.cpp
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(26): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(27): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(28): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(29): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(31): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(32): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(33): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  hud.cpp
+  inventory.cpp
+  inventoryslot.cpp
+  main.cpp
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(26): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(27): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(28): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(29): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(31): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(32): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(33): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pausemenu.cpp
+  animation.cpp
+e:\vscode\lonk\lonkproject\lonkproject\resource files\animation.cpp(11): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\resource files\animation.cpp(12): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  button.cpp
+  projectile.cpp
+e:\vscode\lonk\lonkproject\lonkproject\resource files\projectile.cpp(9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  gamestate.cpp
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(26): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(27): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(28): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(29): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(31): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(32): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(33): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  menustate.cpp
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(26): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(27): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(28): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(29): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(31): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(32): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(33): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  state.cpp
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(26): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(27): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(28): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(29): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(31): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(32): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(33): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vscode\lonk\lonkproject\lonkproject\header files\map.h(34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  victorywindow.cpp
+  Generating code
+  All 1086 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LonkProject.vcxproj -> E:\VsCode\LONK\lonkProject\Release\LonkProject.exe
